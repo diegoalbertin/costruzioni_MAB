@@ -1,0 +1,28 @@
+.carousel-item{
+    height: 600px!important;
+}
+
+.wrapper{
+    margin-bottom: 100px;
+}
+.navbar-img{
+    height: 50px;
+    width: 50px;
+    margin-left:10px;
+}
+.footer{
+    background-color: #607592;
+    height: 200px;
+    flex-shrink: 0;
+}
+.owl-img{
+    height: 350px!important;
+}
+.contatti{
+    background-color: #F1C93B;
+}
+@media screen and (max-width: 768px) {
+    .carousel-item{
+        height: 400px!important;
+    } 
+}
